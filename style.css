@@ -74,7 +74,7 @@ header {
   font-size: 12px;
   background-color: var(--c-light-red);
   border-radius: 6px;
-  padding: 4px;
+  padding: 8px 12px;
 }
 
 .hflex :hover,
@@ -225,6 +225,10 @@ section > p {
   font-weight: 500;
   font-size: 1.1rem;
   line-height: 1.6;
+}
+
+span {
+  color: var(--c-medium-red);
 }
 
 .lip {
